@@ -9,4 +9,4 @@ if userPassword == correctPassword:
     print("'" + userPassword + "' is the correct password!")
 
 if userPassword != correctPassword:
-    print("Sorry, " + userPassword + " is not the correct password.")
+    print("Sorry, '" + userPassword + "' is not the correct password.")
