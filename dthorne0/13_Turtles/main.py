@@ -1,7 +1,7 @@
 import turtle
 
 wn = turtle.Screen()
-wn.bgcolor("lavenderblush")
+wn.bgcolor("lavenderblush") # https://www.tcl.tk/man/tcl8.4/TkCmd/colors.htm
 t = turtle.Turtle()
 
 t.forward(100)
