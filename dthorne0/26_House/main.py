@@ -17,6 +17,8 @@ def drawTriangle(t,n):
         t.forward(n)
         t.left(120)
 
+########################################
+
 wn = turtle.Screen()
 t = turtle.Turtle()
 t.speed(5)
